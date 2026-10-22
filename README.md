@@ -24,9 +24,6 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
-**Markdown File Viewer**
-(web: [`markdownfileviewer.com`](https://markdownfileviewer.com)) - Open and view local .md files directly in the browser with full rendering (tables, code blocks, task lists). 100% client-side, no install, no account.
-
 **Markvim**
 (web: [`markvim.xyz`](https://markvim.xyz),
  github: [`SantiagoBobrik/markvim`](https://github.com/SantiagoBobrik/markvim)) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links.
